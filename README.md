@@ -25,15 +25,6 @@ A web-based water billing and monitoring platform developed for **J&J Water Dist
 - **Authentication:** Supabase Auth
 - **Data Visualization:** Recharts
 
-## My Contributions
-
-- Developed the web-based customer and administrative interfaces.
-- Implemented customer and meter-reading management modules.
-- Developed billing and payment tracking functionality, including partial payments.
-- Integrated Supabase for authentication and database operations.
-- Implemented role-based administrator access and email OTP verification.
-- Developed dashboard analytics for monitoring billing and collection records.
-
 ## Project Information
 
 **Project Type:** Client-based project / Academic Capstone
