@@ -1,0 +1,57 @@
+<svg width="1400" height="820" viewBox="0 0 1400 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="820" fill="#F6FBFD"/>
+  <rect width="1400" height="96" fill="#0F4C5C"/>
+  <text x="36" y="58" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">J&amp;J Water Billing System</text>
+  <text x="1080" y="58" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">README project preview</text>
+
+  <rect x="36" y="136" width="420" height="170" rx="14" fill="white" stroke="#C8D9DE" stroke-width="2"/>
+  <circle cx="61" cy="160" r="8" fill="#1565C0"/>
+  <text x="82" y="167" fill="#17313A" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Customer &amp; Reading Flow</text>
+  <text x="56" y="205" fill="#5F7780" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <tspan x="56" dy="0">Manage customers, record meter readings,</tspan>
+    <tspan x="56" dy="22">compute usage from previous readings, and</tspan>
+    <tspan x="56" dy="22">generate billing records with open-cycle support.</tspan>
+  </text>
+
+  <rect x="490" y="136" width="420" height="170" rx="14" fill="white" stroke="#C8D9DE" stroke-width="2"/>
+  <circle cx="515" cy="160" r="8" fill="#0F9D58"/>
+  <text x="536" y="167" fill="#17313A" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Billing &amp; Payments</text>
+  <text x="510" y="205" fill="#5F7780" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <tspan x="510" dy="0">Track unpaid, partial, overdue, and paid bills.</tspan>
+    <tspan x="510" dy="22">Record full or partial payments and close</tspan>
+    <tspan x="510" dy="22">previous open logs when cycles are completed.</tspan>
+  </text>
+
+  <rect x="944" y="136" width="420" height="170" rx="14" fill="white" stroke="#C8D9DE" stroke-width="2"/>
+  <circle cx="969" cy="160" r="8" fill="#E0A800"/>
+  <text x="990" y="167" fill="#17313A" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Analytics Dashboard</text>
+  <text x="964" y="205" fill="#5F7780" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <tspan x="964" dy="0">Visualize water usage, paid revenue,</tspan>
+    <tspan x="964" dy="22">partial collections, and current billing status</tspan>
+    <tspan x="964" dy="22">with 7-day, 30-day, and monthly views.</tspan>
+  </text>
+
+  <rect x="36" y="346" width="648" height="210" rx="14" fill="white" stroke="#C8D9DE" stroke-width="2"/>
+  <circle cx="61" cy="370" r="8" fill="#D93025"/>
+  <text x="82" y="377" fill="#17313A" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Active Modules</text>
+  <text x="56" y="417" fill="#5F7780" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <tspan x="56" dy="0">Public site, admin portal, customers, readings, billing,</tspan>
+    <tspan x="56" dy="22">SMS reminders, dashboard summaries, and analytics</tspan>
+    <tspan x="56" dy="22">charts built with shadcn/ui and Recharts.</tspan>
+  </text>
+
+  <rect x="716" y="346" width="648" height="210" rx="14" fill="white" stroke="#C8D9DE" stroke-width="2"/>
+  <circle cx="741" cy="370" r="8" fill="#1565C0"/>
+  <text x="762" y="377" fill="#17313A" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Data Sources</text>
+  <text x="736" y="417" fill="#5F7780" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <tspan x="736" dy="0">Usage comes from meter_readings.</tspan>
+    <tspan x="736" dy="22">Revenue is grouped by payment date.</tspan>
+    <tspan x="736" dy="22">Billing status is based on the latest billing state per customer.</tspan>
+  </text>
+
+  <line x1="52" y1="615" x2="1348" y2="615" stroke="#1B8A9B" stroke-width="4"/>
+  <text x="52" y="654" fill="#17313A" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Key routes</text>
+  <text x="52" y="692" fill="#5F7780" font-family="Segoe UI, Arial, sans-serif" font-size="14">/admin/dashboard    /admin/customers    /admin/readings    /admin/billing    /admin/analytics</text>
+  <text x="52" y="732" fill="#5F7780" font-family="Segoe UI, Arial, sans-serif" font-size="14">Tech stack: Next.js, Supabase, Tailwind CSS, shadcn/ui, Recharts, Twilio</text>
+  <text x="1160" y="780" fill="#5F7780" font-family="Segoe UI, Arial, sans-serif" font-size="12">Generated for README review</text>
+</svg>
